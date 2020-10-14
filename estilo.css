@@ -106,23 +106,20 @@ top:0px;
 #item-tres a:hover {
   background:#ff0;
   }
+  #item-cuatro a {
+border-bottom:5px solid #8f0;
+color: #8f0;
+
+}
+#item-cinco a {
+border-bottom:5px solid #0ff;
+color: #0ff;
+}
 .circular {
   border-radius: 50%;
 }
 
-.parrafo1{
 
-width: 50%;
-height: 50%;
-background-color:coral;
-padding: 17px;
-margin-bottom: 2px;
-text-align: left;
-text-transform: uppercase;
-font-family: ‘Open Sans’, Arial;
-font-size: 1.2em;
-color: #fff;
-}
 .pie
 {
 	width: 100%;
